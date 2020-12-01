@@ -11,18 +11,18 @@ public class AmazonSESSample {
 
     // Replace sender@example.com with your "From" address.
     // This address must be verified.
-    static final String FROM = "gauravsood1991@yandex.com";
+    static final String FROM = "XXX@yandex.com";
     static final String FROMNAME = "Gaurav's AWS User1";
 
     // Replace recipient@example.com with a "To" address. If your account
     // is still in the sandbox, this address must be verified.
-    static final String TO = "gauravsood1991@gmail.com";
+    static final String TO = "XXX@gmail.com";
 
     // Replace smtp_username with your Amazon SES SMTP user name.
-    static final String SMTP_USERNAME = "AKIAUFTDI3MCOLI2BXPE";
+    static final String SMTP_USERNAME = "";
 
     // Replace smtp_password with your Amazon SES SMTP password.
-    static final String SMTP_PASSWORD = "BHRPCO2urph95tLkfraheiYAEPZ01x6lBMGxaIiE/5z6";
+    static final String SMTP_PASSWORD = "";
 
     // The name of the Configuration Set to use for this message.
     // If you comment out or remove this variable, you will also need to
